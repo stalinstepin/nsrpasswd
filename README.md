@@ -28,5 +28,6 @@ You can view the same information from **[DELL EMC Knowledgebase](https://suppor
 # Screenshots:
 
 ![](https://3.bp.blogspot.com/-z7oEfY7u_SY/W0C_y-h8ZrI/AAAAAAAAAdQ/0xavmT2txlAigmZklmsB7VpZ0HorswLiwCLcBGAs/s1600/nsrpasswd_windows.png)
+![](https://2.bp.blogspot.com/-o0Vy9MXqFaY/W0DT8iiODRI/AAAAAAAAAds/69LLtO7Q68Mh4kuMDFKblSi2JlYz9zwFQCLcBGAs/s1600/nsrpasswd_Linux1.PNG
 ![](https://1.bp.blogspot.com/-LB--jn9k8Uo/W0DT8pjm-_I/AAAAAAAAAdo/g7ECwelhWvgFFC_Yt5JysPDIM7VnE2ABACLcBGAs/s1600/nsrpasswd_Linux2.PNG)
-![](https://2.bp.blogspot.com/-o0Vy9MXqFaY/W0DT8iiODRI/AAAAAAAAAds/69LLtO7Q68Mh4kuMDFKblSi2JlYz9zwFQCLcBGAs/s1600/nsrpasswd_Linux1.PNG)
+)
