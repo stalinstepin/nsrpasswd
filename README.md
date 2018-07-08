@@ -10,7 +10,7 @@ You can view the same information from **[DELL EMC Knowledgebase](https://suppor
 * Place the executable under **/usr/sbin** for Linux and **C:\Program Files\EMC NetWorker\nsr\bin** for Windows on NetWorker Server.
 * Execute the binary by running the following command from terminal for Linux: **`/usr/sbin/nsrpasswd`**
 * Navigate to **C:\Program Files\EMC NetWorker\nsr\bin** and execute the binary by running the following command from command prompt for Windows: 
-**nsrpasswd**
+**`nsrpasswd`**
 * From here all that you need to provide is the password and the rest is taken care by the script.
 
 ---
@@ -32,6 +32,8 @@ You can view the same information from **[DELL EMC Knowledgebase](https://suppor
 ![](https://3.bp.blogspot.com/-z7oEfY7u_SY/W0C_y-h8ZrI/AAAAAAAAAdQ/0xavmT2txlAigmZklmsB7VpZ0HorswLiwCLcBGAs/s1600/nsrpasswd_windows.png)
 
 **LINUX:**
+
 ![](https://2.bp.blogspot.com/-o0Vy9MXqFaY/W0DT8iiODRI/AAAAAAAAAds/69LLtO7Q68Mh4kuMDFKblSi2JlYz9zwFQCLcBGAs/s1600/nsrpasswd_Linux1.PNG)
+
 ![](https://1.bp.blogspot.com/-LB--jn9k8Uo/W0DT8pjm-_I/AAAAAAAAAdo/g7ECwelhWvgFFC_Yt5JysPDIM7VnE2ABACLcBGAs/s1600/nsrpasswd_Linux2.PNG)
 
