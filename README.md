@@ -22,6 +22,7 @@ You can view the same information from **[DELL EMC Knowledgebase](https://suppor
 * Makes a copy of the JSON file and keeps in buffer which will be used for password reset. 
 * Replaces the password in the JSON file and saves the file under **'C:\Program Files\EMC NetWorker\nsr\authc-server\tomcat\conf\authc-local-config.json'** on Windows and **'/nsr/authc/conf/authc-local-config.json'** on Linux.
 * Restarts the NetWorker services to the changes to the applied to the authc Database.
+* Reports each step performed by the tool to **nsrpasswd.log** file under **/nsr/logs** on Linux and **C:\Program Files\EMC NetWorker\nsr\logs** on Windows. Kindly see the last snippet which has an example of the logging.
 
 
 ---
