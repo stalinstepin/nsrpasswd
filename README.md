@@ -29,6 +29,7 @@ You can view the same information from **[DELL EMC Knowledgebase](https://suppor
 # Screenshots:
 
 **WINDOWS:**
+
 ![](https://3.bp.blogspot.com/-z7oEfY7u_SY/W0C_y-h8ZrI/AAAAAAAAAdQ/0xavmT2txlAigmZklmsB7VpZ0HorswLiwCLcBGAs/s1600/nsrpasswd_windows.png)
 
 **LINUX:**
