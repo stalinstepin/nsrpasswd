@@ -1,7 +1,5 @@
 # NetWorker - nsrpasswd
-**`nsrpasswd`** is a tool that is built to automate the NMC password reset process. This will help the customers to reset the password without having to touch any file and to find the base64 encoded format of the password which needs to be added to the JSON file. This will make the reset process a lot easier and error free.
-
-You can view the same information from **[DELL EMC Knowledgebase](https://support.emc.com/kb/518882).**
+**`nsrpasswd`** is a tool that is written in Python to automate the NMC password reset process. This will help the customers to reset the password without having to touch any file and to find the base64 encoded format of the password which needs to be added to the JSON file. This will make the reset process a lot easier and error free.
 
 ---
 
